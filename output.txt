@@ -1,0 +1,17 @@
+
+Employees who worked for 7 consecutive days:
+No employees worked for 7 consecutive days.
+
+Employees who have less than 10 hours but more than 1 hour of time between shifts:
+CaMaXaWE, CeghaW
+Xee, XaCar
+De Xa Cerda, IgWaciE
+MraW, WiXXiaC Ha
+CEreira Jr, JEse
+DeXgadiXXE REdarMe, ChrisMiaW S
+HaCiXMEW, DeaWMe DevEW
+REdrigAez, GraWdEW AWgeX
+
+Number of employees who have worked more than 14 hours in a single shift: 1
+Employees who have worked for more than 14 hours in a single shift:
+DeXgadiXXE REdarMe, ChrisMiaW S

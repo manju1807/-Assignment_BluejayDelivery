@@ -1,4 +1,4 @@
-# Employee Shift Analyzer (Assignment_BluejayDelivery):
+# Employee Shift Analyzer - Assignment_BluejayDelivery:
 
 ## Overview
 
